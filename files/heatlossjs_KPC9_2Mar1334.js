@@ -1,4 +1,4 @@
-{
+var config = {
   "project_name": "KPC9",
   "degreedays": 2512,
   "heating_MWT": 40,
