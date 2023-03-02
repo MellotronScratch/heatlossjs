@@ -1983,4 +1983,4 @@ var config = {
   "heatpump_COP": 2.8607713668789563,
   "heatpump_elec": 492.7127761111226,
   "solver_running": false
-}
+};
